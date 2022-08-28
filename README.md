@@ -1,6 +1,11 @@
 # vite-boilerplate
 
-## Dependencies
+## Kickstart:
+
+- yarn install
+- yarn dev
+
+### Dependencies
 
 - "autoprefixer": "^10.4.8"
 - "axios": "^0.27.2"
@@ -16,7 +21,7 @@
 - "tailwindcss": "^3.1.8"
 
 
-## devDependencies
+### devDependencies
 
 - "@types/react": "^18.0.17"
 - "@types/react-dom": "^18.0.6"
