@@ -1,4 +1,5 @@
 # vite-boilerplate
+All the boilerplate you need to kickstart a new Vite Project.
 
 ## Kickstart:
 
